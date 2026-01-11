@@ -82,6 +82,6 @@ Automated data updates using APIs
 
 🔗 Live Dashboard
 👉 Tableau Public Link:
-(https://public.tableau.com/app/profile/tanish.sachin.bandodkar/viz/TEAM_INDIA_PERFORMANCE_24-25/ALLMATCHES)
+(https://public.tableau.com/app/profile/tanish.sachin.bandodkar/viz/TANISHB-INDIAPERFORMANCE24-25/ALLMATCHES)
 
 
